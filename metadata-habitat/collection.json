@@ -1,0 +1,6 @@
+{
+    "name": "My Habitat",
+    "description": "A test project on Immutable zkEVM",
+    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
+    "external_link": "https://immutable.com" 
+}
